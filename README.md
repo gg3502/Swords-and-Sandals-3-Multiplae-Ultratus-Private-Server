@@ -316,7 +316,7 @@ Also raise the idle timeouts so players aren't disconnected while browsing menus
 
 ## Step 5: Install the server extension
 
-1. Create the folder `Server\sfsExtensions\swords_sandals_multiplayer\`.
+1. Create the folder `Server\sfsExtensions\`.
 2. Place `ssmp_db.as` (from this repo) inside it.
 3. This extension provides:
    - Gladiator save/load (persisted to a local `gladiator_data.txt` file)
