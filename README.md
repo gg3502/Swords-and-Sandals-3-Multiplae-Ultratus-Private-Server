@@ -8,6 +8,9 @@ This guide covers standing up a **SmartFoxServer PRO 1.x** instance, installing 
 
 ---
 
+
+The Dedicatedd server is now running on IP address: 82.70.47.113
+
 ## What you need
 
 1. **`swords_sandals_3_multiplae_ultratus.swf`** — the standalone multiplayer client file. This repo does not provide it; finding a copy is up to you (search engines are your friend — copies have circulated as a standalone SWF, separate from the solo game executable).
